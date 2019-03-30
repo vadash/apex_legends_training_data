@@ -1,0 +1,10 @@
+ calculation mAP (mean average precision)...
+1644
+ detections_count = 14853, unique_truth_count = 1011
+class_id = 0, name = 1,          ap = 47.21 %
+ for thresh = 0.30, precision = 0.44, recall = 0.59, F1-score = 0.50
+ for thresh = 0.30, TP = 601, FP = 774, FN = 410, average IoU = 29.79 %
+
+ IoU threshold = 50 %
+ mean average precision (mAP@0.50) = 0.472139, or 47.21 %
+Total Detection Time: 10.000000 Seconds
